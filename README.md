@@ -1,4 +1,4 @@
-<section align="center"style="margin-top: 50px;">
+<div align="center"style="margin-top: 50px;">
 
   <img src="./src/assets/profile.jpeg" alt="Profile Picture"  style="border-radius: 20%;" width="200" height="200" />
 
@@ -26,9 +26,9 @@
     <img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a> -->
 
-</section>
+</div>
 
-<section align="center" style="margin-top: 80px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 80px; margin-bottom: 20px;">
   <h1>💻 Mi Stack</h1>
   <p>
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -51,9 +51,9 @@
     <img src="https://img.shields.io/badge/Figma-%238511FA.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Canva" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   </p>
-</section>
+</div>
 
-<section align="center" style="margin-top: 80px; margin-bottom: 20px;">   
+<div align="center" style="margin-top: 80px; margin-bottom: 20px;">   
   <h1> 📊 Mi Github </h1>
   <p>
     <!-- 
@@ -64,4 +64,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLoaiza007&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages" /> 
     -->
   </p>
-</section>
+</div>
