@@ -1,6 +1,8 @@
 <div align="center"style="margin-top: 50px;">
 
-  <img src="./src/assets/profile.jpeg" alt="Profile Picture"  style="border-radius: 20%;" width="200" height="200" />
+  <!-- 
+  <img src="./src/assets/profile.jpeg" alt="Profile Picture"  style="border-radius: 20%;" width="200" height="200" /> 
+  -->
 
   <h1> 💫 Sobre mi </h1>
   <div align="left">
