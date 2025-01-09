@@ -55,16 +55,3 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   </p>
 </div>
-
-<div align="center" style="margin-top: 80px; margin-bottom: 20px;">   
-  <h1> 📊 Mi Github </h1>
-  <p>
-    <!-- 
-    <img src="https://github-readme-stats.vercel.app/api?username=JuanLoaiza007&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" alt="Github General Stats" /> 
-    -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanLoaiza007&theme=onedark&hide_border=true" alt="GitHub Streak Stats" />
-    <!-- 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLoaiza007&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages" /> 
-    -->
-  </p>
-</div>
